@@ -28,6 +28,5 @@ Calculates and creates colourplots of the following turbulence metrics: Turbulen
 Computes spectra of vertical velocities in frequency domain for all ensembles individually at one depth level, option to then average all ensembles or a subset of ensembles by tide stage. 
 
 Dependency: get_ensembles.m - Grabs concatenated file of vertical velocities and sorts it into 5-minute ensembles (retains individual measurements) 
-
             get_specs.m - Uses pwelch.m to calculate spectra of vertical velocities 
 
